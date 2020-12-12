@@ -1,0 +1,2 @@
+# csp
+Clip Studio Paint
